@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://www.ferz.co/' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+(def www-ferz-co? &quot;Pashka's Den&quot;)
+</title>
+<link>
+http://www.ferz.co/
+</link>
+<description>
+Pavel Razuvayev | Personal Blog
+</description>
+<lastBuildDate>
+Fri, 22 May 2015 19:31:44 -0500
+</lastBuildDate>
+<author>
+ferz
+</author>
+<item>
+<guid>
+http://www.ferz.co/posts/22-05-2015-first-post.html
+</guid>
+<link>
+http://www.ferz.co/posts/22-05-2015-first-post.html
+</link>
+<title>
+1st post
+</title>
+<description>
+&lt;h3&gt;&lt;a name=&quot;1st&amp;#95;post&amp;#95;with&amp;#95;cryogen&quot;&gt;&lt;/a&gt;1st post with Cryogen&lt;/h3&gt;&lt;p&gt;Trying out new static web site generator with Cryogen, weeeeeeeeeee&lt;/p&gt;
+</description>
+<pubDate>
+Wed, 05 Nov 0027 00:00:00 -0600
+</pubDate>
+<author>
+ferz
+</author>
+</item>
+</channel>
+</rss>
