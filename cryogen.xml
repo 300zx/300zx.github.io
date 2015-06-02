@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='http://www.ferz.co/' rel='self' type='application/rss+xml'/>
+<atom:link href='http://ferz.co/' rel='self' type='application/rss+xml'/>
 <generator>
 clj-rss
 </generator>
 <title>
-(def www-ferz-co? &quot;Pashka's Den&quot;)
+Ferz
 </title>
 <link>
-http://www.ferz.co/
+http://ferz.co/
 </link>
 <description>
-Pavel Razuvayev | Personal Blog
+Pashka's Den
 </description>
 <lastBuildDate>
-Sat, 30 May 2015 18:14:10 -0500
+Mon, 01 Jun 2015 21:17:30 -0500
 </lastBuildDate>
 <author>
-ferz
+Pavel Razuvayev
 </author>
 </channel>
 </rss>
